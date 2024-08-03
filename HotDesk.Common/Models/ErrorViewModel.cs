@@ -1,4 +1,4 @@
-namespace HotDesk.Web.Models
+namespace HotDesk.Common.Models
 {
     public class ErrorViewModel
     {

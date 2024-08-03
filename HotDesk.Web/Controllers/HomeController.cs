@@ -1,4 +1,4 @@
-﻿using HotDesk.Web.Models;
+﻿using HotDesk.Common.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
